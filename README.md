@@ -2,6 +2,8 @@
 
 This repository includes the necessary code and configuration files to replicate our work on HardExudates segmentation.
 
+![Figure](1-s2.0-S095741742303244X-gr11_lrg.jpg)
+
 ## System requirements
 The source code is intended to run on a Linux workstation equipped with a GPU card.
 
